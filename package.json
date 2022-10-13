@@ -1,0 +1,19 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "cursito del men jhon smilga",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "tutorial"
+  ],
+  "author": "eljavo",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "lodash": "^4.17.21"
+  }
+}
